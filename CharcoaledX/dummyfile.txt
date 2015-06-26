@@ -1,3 +1,25 @@
 Place source files here.
 
-Edit file and add /folder name (repeatedly) to add folder structure
+CREATING A REPO:
+https://help.github.com/articles/create-a-repo/
+
+RENAMING A REPO:
+https://help.github.com/articles/renaming-a-repository/
+
+FORKING A REPO:
+https://help.github.com/articles/fork-a-repo/
+
+SPLITTING A SUBFOLDER INTO A NEW REPO
+https://help.github.com/articles/splitting-a-subfolder-out-into-a-new-repository/
+
+GETTING YOUR PROJECT ON GITHUB
+https://guides.github.com/introduction/getting-your-project-on-github/
+
+CHANGING A REMOTE'S URL:
+https://help.github.com/articles/changing-a-remote-s-url/
+
+CHANGING A FILE'S FOLDER LOCATION
+http://stackoverflow.com/questions/18773598/creating-folders-inside-github-com-repo-without-using-git
+OR
+https://help.github.com/articles/moving-a-file-to-a-new-location/
+
